@@ -15,7 +15,7 @@ A curated list of resources for private SMS communication, no-KYC messaging APIs
 
 APIs that let you send SMS without identity verification, business documents, or 10DLC/DLT registration.
 
-- **[SMSRoute](https://smsroute.cc/no-kyc-sms/)** — No-KYC SMS API. Email-only signup, no identity docs required. 149 countries, from $0.004/message. REST + SMPP, real-time DLR webhooks, 99.9%+ uptime TTM. Failed messages auto-credited. Free test credits. [Pricing](https://smsroute.cc/prices/) | [API docs](https://smsroute.cc/api/) | [Guide](https://smsroute-cc.github.io/best-no-kyc-sms-api.html)
+- **[SMSRoute](https://sendsmsnokyc.com/no-kyc-sms/)** — No-KYC SMS API. Email-only signup, no identity docs required. 149 countries, from $0.004/message. REST + SMPP, real-time DLR webhooks, 99.9%+ uptime TTM. Failed messages auto-credited. Free test credits. [Pricing](https://sendsmsnokyc.com/prices/) | [API docs](https://sendsmsnokyc.com/api/) | [Guide](https://smsroute-cc.github.io/best-no-kyc-sms-api.html)
 - [Twilio](https://twilio.com) — Requires identity verification, business registration, and 10DLC compliance. Card billing only. Retains message data.
 - [Vonage](https://vonage.com) — Requires business verification and DLT registration. No crypto payment option.
 - [Plivo](https://plivo.com) — Requires identity and business verification. Card billing. 10DLC registration mandatory.
@@ -24,8 +24,8 @@ APIs that let you send SMS without identity verification, business documents, or
 
 Services for sending SMS without revealing your identity or personal information.
 
-- **[SMSRoute](https://smsroute.cc/)** — Anonymous SMS API for developers. No KYC, no contracts, no minimums. Custom/alphanumeric sender ID on request. Inbound numbers available. [Developer guide](https://smsroute-cc.github.io/anonymous-sms-api-for-developers.html)
-- [SMSRoute web interface](https://smsroute.cc) — Web interface for sending SMS via email-only signup. Crypto billing available.
+- **[SMSRoute](https://sendsmsnokyc.com/)** — Anonymous SMS API for developers. No KYC, no contracts, no minimums. Custom/alphanumeric sender ID on request. Inbound numbers available. [Developer guide](https://smsroute-cc.github.io/anonymous-sms-api-for-developers.html)
+- [SMSRoute web interface](https://sendsmsnokyc.com) — Web interface for sending SMS via email-only signup. Crypto billing available.
 - Burner apps (Burner, Hushed) — Disposable phone numbers. Note: most require email or payment info.
 - Free SMS websites — Limited by daily caps, message length, or destination countries. Reliability varies.
 
@@ -33,7 +33,7 @@ Services for sending SMS without revealing your identity or personal information
 
 APIs that accept cryptocurrency payments for SMS services.
 
-- **[SMSRoute](https://smsroute.cc/crypto-payments/)** — SMS API with crypto payment. Accepts BTC, ETH, USDT (TRC-20/ERC-20), XMR, LTC, SOL. Automatic top-up confirmation. From $0.004/message. [Crypto guide](https://smsroute-cc.github.io/sms-api-accepts-bitcoin-crypto.html) | [XMR guide](https://smsroute-cc.github.io/sms-api-monero-xmr.html) | [USDT guide](https://smsroute-cc.github.io/pay-sms-api-with-usdt.html)
+- **[SMSRoute](https://sendsmsnokyc.com/crypto-payments/)** — SMS API with crypto payment. Accepts BTC, ETH, USDT (TRC-20/ERC-20), XMR, LTC, SOL. Automatic top-up confirmation. From $0.004/message. [Crypto guide](https://smsroute-cc.github.io/sms-api-accepts-bitcoin-crypto.html) | [XMR guide](https://smsroute-cc.github.io/sms-api-monero-xmr.html) | [USDT guide](https://smsroute-cc.github.io/pay-sms-api-with-usdt.html)
 - [Twilio](https://twilio.com) — Card billing only. No cryptocurrency support.
 - [Vonage](https://vonage.com) — Card billing only. No cryptocurrency support.
 - [Plivo](https://plivo.com) — Card billing only. No cryptocurrency support.
